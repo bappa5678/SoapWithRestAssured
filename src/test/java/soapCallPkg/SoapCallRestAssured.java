@@ -31,6 +31,8 @@ public class SoapCallRestAssured {
 	
 	@Test
 	 public void PostCall () throws Exception {
+		 
+		 String a ="Bappaditya";
 					
 		 File inputXML = new File(".\\xmlSource\\SoapPost.xml");
 		 BufferedReader br = null;
