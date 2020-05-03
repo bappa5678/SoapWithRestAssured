@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3650" started-at="2020-04-28T18:57:05 IST" finished-at="2020-04-28T18:57:09 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3650" started-at="2020-04-28T18:57:05 IST" finished-at="2020-04-28T18:57:09 IST">
+      <class name="soapCallPkg.SoapCallRestAssured">
+        <test-method status="PASS" signature="PostCall()[pri:0, instance:soapCallPkg.SoapCallRestAssured@7494e528]" name="PostCall" duration-ms="3599" started-at="2020-04-28T18:57:05 IST" finished-at="2020-04-28T18:57:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostCall -->
+      </class> <!-- soapCallPkg.SoapCallRestAssured -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
