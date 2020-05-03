@@ -34,7 +34,7 @@ public class SoapCallRestAssured {
 					
 		 File inputXML = new File(".\\xmlSource\\SoapPost.xml");
 		 BufferedReader br = null;
-	        String newString = "Adityas";
+	        String newString = "Palani";
 	        StringBuilder strTotale = new StringBuilder();
 	        try {
 	        FileReader reader = new FileReader(inputXML);
